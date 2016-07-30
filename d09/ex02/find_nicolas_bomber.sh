@@ -1,0 +1,1 @@
+cat $1 | grep -iw "nicolas" | grep -iw "bomber" | awk '{print $(NF-1)}' | cut 
