@@ -78,3 +78,4 @@ char	**ft_split_whitespaces(char *str)
 	array[k] = 0;
 	return (array);
 }
+
