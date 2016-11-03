@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dstolz <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: dstolz <dstolz@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/07/15 15:44:28 by dstolz            #+#    #+#             */
 /*   Updated: 2016/07/15 15:44:32 by dstolz           ###   ########.fr       */
